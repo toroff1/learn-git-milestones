@@ -285,7 +285,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [good documentation on tables](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | git log shows the history of all commits in the current repository.
 2a | 2nd Favorite emoji | :hand_with_index_finger_and_thumb_crossed: 
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from GitHub Desktop](https://github.com/toroff1/learn-git-milestones/commit/2d212210d7d9d333c013d8e61b7fe8e978bf09b1)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
