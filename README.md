@@ -284,7 +284,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | [created a link in 1b](https://github.com/omundy/learn-git-milestones/commit/01a11f2e450d7b6922ff058e498303bb10343515)
 1c | Link to markdown tables docs | [good documentation on tables](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | git log shows the history of all commits in the current repository.
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | :hand_with_index_finger_and_thumb_crossed: 
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
