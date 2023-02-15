@@ -289,7 +289,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | C:\Users\tomro\Documents\GitHub\learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/toroff1/learn-git-milestones/commit/b6b2c3271b24e30b1ea2257efe8c4247f1dccd14)
 2e | 3rd Favorite emoji | :sunglasses: 
-2f | Link to `commit #4 from VS Code` |
+2f | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/toroff1/learn-git-milestones/commit/fe709464b372061aac6a2f284b8e84906dcc664d)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
