@@ -291,7 +291,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | :sunglasses: 
 2f | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/toroff1/learn-git-milestones/commit/fe709464b372061aac6a2f284b8e84906dcc664d)
 3a | Link to `my-awesome-project` github.com repo page | [Link to 'my-awesome-project'](https://github.com/toroff1/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [Link to project site](http://toroff1.github.io/my-awesome-project)
 
 
 
